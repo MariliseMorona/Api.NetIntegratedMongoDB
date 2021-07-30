@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9CIg/G6u0l4h2ys1K9/4nLTToViBXMyIEaYFldGKis04AvmIBzg9IEv/rfCJy0TKy36bF4t/QwaU4QEXxERorA==",
+  "success": false,
+  "projectFilePath": "D:\\Documents\\DigitalInnovationOne\\APIDotNetMongoDB\\API\\API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote MongoDB.Driver. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "MongoDB.Driver",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
